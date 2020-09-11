@@ -3,7 +3,7 @@
 
 ## Video Walkthrough
 
-See the Demo Video. 
+See the [Demo Video](https://www.loom.com/share/5542240ba94842e19fcf351a045da0f7). 
 
 ## Learning Goal
 Practice working with asynchrony in JavaScript (and, more specifically, timers) by creating a simple browser-based countdown timer.
