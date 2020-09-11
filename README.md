@@ -39,7 +39,7 @@ Create a webpage that features a 10 second countdown timer. The page should have
 
 
 ## Extra credit (Up to 4 points):
-Add the capability for the user to set the number of seconds to any integer. Refer to the video walkthrough for an example.
+Add the capability for the user to set the number of seconds to any integer. Refer to the [extra credit demo video](https://www.loom.com/share/6653584da1934a97aec02cdacad70df5) for an example.
 
 | Requirement  | Points |
 | ------------- | ------------- |
