@@ -1,15 +1,15 @@
 # HW 1: Countdown timer
-**SI 669 Fall 2020**
+**SI 669 Fall 2021**
 
 ## Video Walkthrough
 
-See the [Demo Video](https://www.loom.com/share/5542240ba94842e19fcf351a045da0f7). 
+See the [Demo Video](https://www.loom.com/share/5533ec8b6abb44a3ad6ff413fc41a447). 
 
 ## Learning Goal
 Practice working with asynchrony in JavaScript (and, more specifically, timers) by creating a simple browser-based countdown timer.
 
 ## Project Goal
-Create a webpage that features a 10 second countdown timer. The page should have one button that allows the user to start/restart the timer. Whenever the button is clicked, it should start a new countdown. If there was an active countdown, it should be cancelled. See the demo video (Links to an external site.) for an example of what your page should do when it’s complete.
+Create a webpage that features a 7 second countdown timer. The page should have one button that allows the user to start/restart the timer. Whenever the button is clicked, it should start a new countdown. If there was an active countdown, it should be cancelled. See the demo video (Links to an external site.) for an example of what your page should do when it’s complete.
 
 ## What to Do
 1. Accept the GitHub Classroom invitation. (You already did this!)
@@ -23,23 +23,23 @@ Create a webpage that features a 10 second countdown timer. The page should have
 
 ## Notes:
 * The timer should only start when “Restart” is clicked the first time.
-* When “Restart” is clicked, it should restart the timer. You will have to figure out how to clear (or cancel) an active timer. You can find information about how to do this online.
+* Any time “Restart” is clicked, it should start/restart the timer. You will have to figure out how to clear (or cancel) an active timer. You can find information about how to do this online.
 * If the timer gets all the way down to zero, the page should display “Timer Done!”
-* Note that the display changes each second. This means you will *not* be setting the timer to 10 seconds and letting it run. Consider: If the display changes every second, how often do events need to fire? How will you know when the timer is actually done?
+* Note that the display changes each second. This means you will *not* be setting the timer to 7 seconds and letting it run. Consider: If the display changes every second, how often do events need to fire? How will you know when the timer is actually done?
 
 ## Grading (up to 120 points)
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
 | 1 | Clicking the button makes some sort of visible change on the page | 30  |
-| 2 | Clicking the button starts a timer that expires after 10 seconds and displays “Timer Done!” when it expires (may or may not change the display every second) | 30 |
+| 2 | Clicking the button starts a timer that expires after 7 seconds and displays “Timer Done!” when it expires (may or may not change the display every second) | 30 |
 | 3 | Timer counts down every second (i.e, display changes every second) | 30 |
-| 4 | Timer is restarted when button is clicked and a timer is active (starts counting down from 10 seconds again) | 20 |
+| 4 | Timer is restarted when button is clicked and a timer is active (starts counting down from 7 seconds again) | 20 |
 | 5 | Restarting while a timer is active cancels the original timer. Only one timer is active at any one time. | 10 |
 | | **Total** | **120**
 
 
 ## Extra credit (Up to 4 points):
-Add the capability for the user to set the number of seconds to any integer. Refer to the [extra credit demo video](https://www.loom.com/share/6653584da1934a97aec02cdacad70df5) for an example.
+Add the capability for the user to set the number of seconds to any integer. Refer to the [extra credit demo video](https://www.loom.com/share/fb62ccbc4c5349859a1c9d98006a44eb) for an example.
 
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
