@@ -16,7 +16,7 @@ Create a webpage that features a 7 second countdown timer. The page should have 
 2. Clone this repo to your local machine.
 3. `cd` into the directory that was created when you cloned the repo (it should be called `hw2-hello-<your-github-id>`).
 4. Modify `hw1.html` to meet the criteria below. 
-5. You only need to push one version of `hw1.html`, even if you do the extra credit. The requirements for the main assignment should still work if you do the extra credit when the timer is set to 10 seconds.
+5. You only need to push one version of `hw1.html`, even if you do the extra credit. The requirements for the main assignment should still work if you do the extra credit when the timer is set to 7 seconds.
 6. Push your final changes to GitHub before the deadline.
 7. Create a screencast video (consider [Loom](https://www.loom.com/) if you don't already have a favorite) and submit the link to Canvas before the deadline.
 8. Indicate in your Canvas comments which requirements (including extra credit) you believe you met.
