@@ -9,7 +9,7 @@ See the [Demo Video](https://www.loom.com/share/216823f0f78f4b5881bdf70109a9e694
 Practice working with asynchrony in JavaScript (and, more specifically, timers) by creating a simple browser-based countdown timer.
 
 ## Project Goal
-Create a webpage that features a 7 second countdown timer. The page should have one button that allows the user to start/restart the timer. Whenever the button is clicked, it should start a new countdown. If there was an active countdown, it should be cancelled. See the [Demo Video](hhttps://www.loom.com/share/216823f0f78f4b5881bdf70109a9e694) for an example of what your page should do when it’s complete.
+Create a webpage that features a 7 second countdown timer. The page should have one button that allows the user to start/restart the timer. Whenever the button is clicked, it should start a new countdown. If there was an active countdown, it should be cancelled. See the [Demo Video](https://www.loom.com/share/216823f0f78f4b5881bdf70109a9e694) for an example of what your page should do when it’s complete.
 
 ## What to Do
 1. Accept the GitHub Classroom invitation. (You already did this!)
