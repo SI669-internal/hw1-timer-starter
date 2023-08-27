@@ -1,5 +1,5 @@
-# HW 1: Countdown timer
-**SI 669 Fall 2022**
+# HW 0: Countdown timer
+**SI 669 Fall 2023**
 **Important: This is an optional assignment!! It is worth no points!!**
 If you have questions about your implementation and want the instructor to take a look, reach out via Slack. Otherwise assignments will not be graded--this is for your own practice.
 
